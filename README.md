@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="mailto:ashishrajgu0987@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="tel:+917277290451"><img src="https://img.shields.io/badge/Call%20Me---brightgreen?style=for-the-badge&logo=phone" /></a>
 </p>
 
 ---
