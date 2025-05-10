@@ -48,7 +48,7 @@ BMC Remedy, Jira, Confluence, MySQL Workbench, Oracle SQL Developer, Postman, Pu
 
 ## 🏢 Work Experience:
 
-**Production and Application Support Analyst**  
+**Production and DevOps Support Analyst**  
 *Flipkart, Bangalore*  
 🗓️ **Aug 2023 – Present**
 
