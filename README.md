@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+Ashish+Raj)](https://git.io/typing-svg)
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Production+%2F+Application+Support+Engineer&color=FF0000" alt="Typing SVG" align="center" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Support+%26+Production+Support+Engineer&color=FF0000" alt="Typing SVG" align="center" />
 </a>
 
 <p align="center">
@@ -36,48 +36,4 @@
   <img src="https://img.shields.io/badge/Apache2-CA213C?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Tomcat-003366?style=for-the-badge&logo=apachetomcat&logoColor=white" />
   <img src="https://img.shields.io/badge/Zabbix-E20000?style=for-the-badge&logo=zabbix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
-
----
-
-## 🧰 Tools I Use:
-BMC Remedy, Jira, Confluence, MySQL Workbench, Oracle SQL Developer, Postman, Putty, WinSCP, Podium
-
----
-
-## 🏢 Work Experience:
-
-**Production and Application Support Analyst**  
-*Flipkart, Bangalore*  
-🗓️ **Aug 2023 – Present**
-
-### Projects:
-- **IFMS**: Scala, Angular, MySQL, Docker — managed fund operations and streamlined internal finance.
-- **Liquidice**: Java, Spring Boot, Open Banking APIs — enabled real-time multi-bank transactions.
-
-### Responsibilities:
-- Responded to incidents and provided L1/L2 support for Linux-based services and databases.
-- Performed UAT testing, wrote SQL queries, and debugged database-level issues.
-- Monitored production with Zabbix/Grafana and handled release deployments.
-- Maintained backups (DB, Docker, code), collaborated with Dev/QA/Infra teams.
-- Documented SOPs and ensured 24/7 support availability.
-
----
-
-## 🎓 Education:
-
-**Bachelor of Technology in Computer Science**  
-Galgotias University | 2023
-
----
-
-## 🔔 Fun Facts
-
-- 🚀 Passionate about automating support workflows and stabilizing production systems.
-- 🧑‍🤝‍🧑 Team mentor and great at cross-functional collaboration.
-- 🛠️ Always ready to dive into logs, alerts, and escalations.
-
----
-
-> _Thanks for visiting my profile! Let's connect._ 🙌
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=g
