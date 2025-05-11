@@ -77,8 +77,8 @@ Galgotias University | 2023
 <!-- GitHub Summary Cards -->
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashsih-raj-devops&theme=radical)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashsih-raj-devops&theme=radical)
-![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashsih-raj-devops&theme=radical)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashsih-raj-devops&theme=radical&utcOffset=8)
+        ![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashsih-raj-devops&theme=radical)
+        ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashsih-raj-devops&theme=radical&utcOffset=8)
 
 <!-- Streak Stats -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashsih-raj-devops&theme=radical)](https://git.io/streak-stats)
