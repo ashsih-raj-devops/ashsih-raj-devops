@@ -1,23 +1,15 @@
 <!-- Banner Image -->
 <p align="center">
-  <!-- <img src="https://your-banner-image-url.com" alt="Banner" width="100%" /> -->
+<!--   <img src="https://your-banner-image-url.com" alt="Banner" width="100%" /> -->
 </p>
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+Ashish+Raj;DevOps+Support+%2F+Production+Support+Engineer&color=FF0000" alt="Typing SVG" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+Ashish+Raj)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Support+%2F+Production+Support+Engineer&color=FF0000" alt="Typing SVG" align="center" />
+</a>
 
-<!-- Contact Badges -->
 <p align="center">
-  <a href="mailto:ashishrajgu0987@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="tel:+917277290451">
-    <img src="https://img.shields.io/badge/Call%20Me---brightgreen?style=for-the-badge&logo=phone" />
-  </a>
+  <a href="mailto:ashishrajgu0987@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
