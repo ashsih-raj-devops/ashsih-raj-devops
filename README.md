@@ -7,7 +7,7 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Hey!+I'm+Ashish+Raj" alt="Typing SVG" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=DevOps+Support+%2F+Production+Support+Engineer" alt="Typing SVG" />
 </p>
 
