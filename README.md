@@ -72,15 +72,6 @@ BMC Remedy, Jira, Confluence, MySQL Workbench, Oracle SQL Developer, Postman, Pu
 Galgotias University | 2023
 
 ---
-
-## 🔔 Fun Facts
-
-- 🚀 Passionate about automating support workflows and stabilizing production systems.
-- 🧑‍🤝‍🧑 Team mentor and great at cross-functional collaboration.
-- 🛠️ Always ready to dive into logs, alerts, and escalations.
-
----
-
 ## 📊 GitHub Stats:
 
 <!-- GitHub Summary Cards -->
@@ -94,6 +85,18 @@ Galgotias University | 2023
 
 <!-- Main GitHub Stats -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashsih-raj-devops&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+---
+
+## 🔔 Fun Facts
+
+- 🚀 Passionate about automating support workflows and stabilizing production systems.
+- 🧑‍🤝‍🧑 Team mentor and great at cross-functional collaboration.
+- 🛠️ Always ready to dive into logs, alerts, and escalations.
+
+
 
 
 > _Thanks for visiting my profile! Let's connect._ 🙌
