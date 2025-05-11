@@ -77,8 +77,7 @@ Galgotias University | 2023
 
 <p align="center">
   <!-- Main GitHub Stats -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashsih-raj-devops&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src= "[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashsih-raj-devops&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)" />
 </p>
 
 <!-- Streak Stats -->
