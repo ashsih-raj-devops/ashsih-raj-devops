@@ -1,15 +1,23 @@
 <!-- Banner Image -->
 <p align="center">
-<!--   <img src="https://your-banner-image-url.com" alt="Banner" width="100%" /> -->
+  <!-- <img src="https://your-banner-image-url.com" alt="Banner" width="100%" /> -->
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+Ashish+Raj)](https://git.io/typing-svg)
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Support+%26+Production+Support+Engineer&color=FF0000" alt="Typing SVG" align="center" />
-</a>
-
+<!-- Typing SVG -->
 <p align="center">
-  <a href="mailto:ashishrajgu0987@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+Ashish+Raj;DevOps+Support+%2F+Production+Support+Engineer&color=FF0000" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Contact Badges -->
+<p align="center">
+  <a href="mailto:ashishrajgu0987@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="tel:+917277290451">
+    <img src="https://img.shields.io/badge/Call%20Me---brightgreen?style=for-the-badge&logo=phone" />
+  </a>
 </p>
 
 ---
@@ -47,7 +55,7 @@ BMC Remedy, Jira, Confluence, MySQL Workbench, Oracle SQL Developer, Postman, Pu
 
 ## 🏢 Work Experience:
 
-**DevOps and Production Support**  
+**Production and Application Support Analyst**  
 *Flipkart, Bangalore*  
 🗓️ **Aug 2023 – Present**
 
@@ -76,6 +84,22 @@ Galgotias University | 2023
 - 🚀 Passionate about automating support workflows and stabilizing production systems.
 - 🧑‍🤝‍🧑 Team mentor and great at cross-functional collaboration.
 - 🛠️ Always ready to dive into logs, alerts, and escalations.
+
+---
+
+## 📊 GitHub Stats:
+
+<!-- GitHub Summary Cards -->
+![Ashish's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishrajgu0987&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashishrajgu0987&theme=radical)
+![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishrajgu0987&theme=radical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishrajgu0987&theme=radical&utcOffset=8)
+
+<!-- Streak Stats -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashishrajgu0987&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!-- Main GitHub Stats -->
+[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishrajgu0987&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
