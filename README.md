@@ -72,22 +72,19 @@ BMC Remedy, Jira, Confluence, MySQL Workbench, Oracle SQL Developer, Postman, Pu
 Galgotias University | 2023
 
 ---
-      ## 📊 GitHub Stats:
-
+ /*
+<!-- -  ## 📊 GitHub Stats: -->
 <!-- GitHub Summary Cards -->
-      [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashsih-raj-devops&theme=radical)](https://github.com/ashsih-raj-devops)
-      [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashsih-raj-devops&theme=radical)](https://github.com/ashsih-raj-devops)
-    [![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashsih-raj-devops&theme=radical)](https://github.com/ashsih-raj-devops)
-    [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashsih-raj-devops&theme=radical&utcOffset=8)](https://github.com/ashsih-raj-devops)
-
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashsih-raj-devops&theme=radical)](https://github.com/ashsih-raj-devops)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashsih-raj-devops&theme=radical)](https://github.com/ashsih-raj-devops)
+[![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashsih-raj-devops&theme=radical)](https://github.com/ashsih-raj-devops)
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashsih-raj-devops&theme=radical&utcOffset=8)](https://github.com/ashsih-raj-devops)
 <!-- Streak Stats -->
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashsih-raj-devops&theme=radical)](https://github.com/ashsih-raj-devops)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashsih-raj-devops&theme=radical)](https://github.com/ashsih-raj-devops)
 <!-- Main GitHub Stats -->
-    [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashsih-raj-devops&show_icons=true&theme=radical)](https://github.com/ashsih-raj-devops)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashsih-raj-devops&show_icons=true&theme=radical)](https://github.com/ashsih-raj-devops)
 
-
-
+*/
 
 
 ---
