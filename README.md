@@ -90,17 +90,16 @@ Galgotias University | 2023
 ## 📊 GitHub Stats:
 
 <!-- GitHub Summary Cards -->
-![Ashish's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishrajgu0987&theme=radical)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashishrajgu0987&theme=radical)
-![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishrajgu0987&theme=radical)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishrajgu0987&theme=radical&utcOffset=8)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashsih-raj-devops&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashsih-raj-devops&theme=radical)
+![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashsih-raj-devops&theme=radical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashsih-raj-devops&theme=radical&utcOffset=8)
 
 <!-- Streak Stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashishrajgu0987&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashsih-raj-devops&theme=radical)](https://git.io/streak-stats)
 
 <!-- Main GitHub Stats -->
-[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishrajgu0987&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashsih-raj-devops&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 > _Thanks for visiting my profile! Let's connect._ 🙌
