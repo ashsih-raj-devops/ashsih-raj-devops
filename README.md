@@ -1,7 +1,4 @@
 <!-- Banner Image -->
-<p align="center">
-<!--   <img src="https://your-banner-image-url.com" alt="Banner" width="100%" /> -->
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Hey!+I'm+Ashish+Raj" alt="Typing SVG" />
@@ -11,9 +8,7 @@
 </p>
 
 
-<p align="center">
-  <a href="mailto:ashishrajgu0987@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
-</p>
+
 
 ---
 
