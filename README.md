@@ -71,7 +71,7 @@ BMC Remedy, Jira, Confluence, MySQL Workbench, Oracle SQL Developer, Postman, Pu
 **Bachelor of Technology in Computer Science**  
 Galgotias University | 2023
 
----
+
 
 <!-- -  ## 📊 GitHub Stats: -->
 
